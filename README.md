@@ -2,13 +2,6 @@
 
 <br>
 
-<div align="center">
-  <img align="center">< img align= "center" src="https://imgur.com/6gs0UJV.png />
-
-</div>
-
-<div align="center">
-  
   <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
