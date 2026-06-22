@@ -1,4 +1,4 @@
-<img width="100%" src=""C:\Users\Melba\Downloads\Strawberry.gif""/>
+<img width="100%" src="C:\Users\Melba\Downloads\github-header-banner.png"/>
 
 <br>
 
