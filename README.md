@@ -3,7 +3,8 @@
 <br>
 
 <div align="center">
-  <gif align="center" height="150" src="https://gif.com/Strawberry.gif" />
+  <img align="center" width="400" src="Strawberry.gif" alt="Strawberry.gif">
+
 </div>
 
 <div align="center">
