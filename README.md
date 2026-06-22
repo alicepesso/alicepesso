@@ -45,8 +45,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/v1ih">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1ih&layout=compact&langs_count=6&theme=tokyonight"/>
+      <a href="https://github.com/alicepesso">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicepesso&layout=compact&langs_count=6&theme=tokyonight"/>
       </a>
     </td>
   </tr>
