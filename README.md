@@ -1,9 +1,10 @@
-<img width="100%" src="C:\Users\Melba\Downloads\github-header-banner.png"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
+
 
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+  <img align="center" height="150" src="https://imgur.com/Strawberry.gif" />
 </div>
 
 <div align="center">
