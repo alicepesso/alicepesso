@@ -35,27 +35,6 @@
 
 <h2 align="left">Hello World, I'm ... Welcome to my profile!</h2>
 
-### Não esqueça de mudar os links usando o seu user neles.
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/alicepesso">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v1ih&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/alicepesso">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicepesso&layout=compact&langs_count=6&theme=tokyonight"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-###
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVkZHk1ZXV6aDd4MXl6a3AwY2RuY3h5cXk0dWhkdnJqbG9zY3M2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
-
 ### 🛠️ Technologies and Skills
 
 <h1>Hey there, I'm Alice Pessoa</h1>
