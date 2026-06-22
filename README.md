@@ -5,7 +5,7 @@
   <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Alice Pessoa</b2>
+      Hi there! I'm <b>Alice Pessoa</b>
   </samp>
 </div>
 
