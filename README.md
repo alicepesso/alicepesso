@@ -1,10 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
 
-
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/Strawberry.gif" />
+  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
 </div>
 
 <div align="center">
@@ -12,7 +11,7 @@
   <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Alice pessoa</b>
+      Hi there! I'm <b>Kamilly Medino</b>
   </samp>
 </div>
 
@@ -108,7 +107,3 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
-
-
-
-
