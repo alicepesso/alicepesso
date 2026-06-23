@@ -18,31 +18,6 @@
 
 <br>
 
-<div align="center">
-  <img align="center" height="150" src="https://imgur.com/gallery/morango-jvts5pP#6gs0UJV.png" />
-</div>
-
-
-<div align="center">
-  <samp>
-      <br>
-      Hey there! I'm <b>Alice Pessoa</b>
-  </samp>
-</div>
-
-<div align="center" width="100%">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Data+Science;I'm+also+a+student+of+TI;Be+welcome!" alt="Typing SVG"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Lice_♡-black" />
-</div>
-      
-<br>
-<br>
       
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
