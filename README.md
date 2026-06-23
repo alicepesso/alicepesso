@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+Alice;" alt="Typing SVG"/>
 </div>
 <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
+    💼  Descomplica • Data Science - 5 período • 
     💻 System programming languages • DevOps 
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim & Mingau 🐤🐥
+    
 </pre>
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
