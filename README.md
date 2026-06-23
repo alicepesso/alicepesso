@@ -25,7 +25,6 @@
 
       
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
 
 
 <h2 align="left">Hello World, I'm ... Welcome to my profile!</h2>
